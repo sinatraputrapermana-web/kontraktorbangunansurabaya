@@ -134,6 +134,36 @@ const dataFaqBeranda = [
 // 7. DATA ARTIKEL (Pengganti Database — render dinamis di artikel.html)
 const dataArtikel = [
     {
+        judul: "Panduan Mengurus Izin PBG di Surabaya Terbaru untuk Rumah dan Ruko",
+        kategori: "legalitas",
+        kategoriLabel: "Legalitas & Izin",
+        tanggal: "8 Sep 2026",
+        waktuBaca: "8 Menit",
+        url: "artikel/panduan-mengurus-izin-pbg-surabaya.html",
+        gambar: "assets/img/artikel/panduan-mengurus-izin-pbg-surabaya.webp",
+        ringkasan: "Panduan lengkap mengurus izin PBG di Surabaya terbaru: syarat dokumen teknis arsitektur & struktur, alur SIMBG PUPR, validasi gambar kerja, dan konsultasi gratis."
+    },
+    {
+        judul: "Panduan Lengkap Renovasi Rumah & Ruko di Surabaya - Struktur Aman & RAB Transparan",
+        kategori: "bangun-rumah",
+        kategoriLabel: "Bangun Rumah",
+        tanggal: "8 Sep 2026",
+        waktuBaca: "10 Menit",
+        url: "artikel/panduan-lengkap-renovasi-rumah-ruko-surabaya.html",
+        gambar: "assets/img/artikel/panduan-lengkap-renovasi-rumah-ruko.webp",
+        ringkasan: "Panduan komprehensif renovasi rumah dan ruko di Surabaya: audit kekuatan struktur eksisting, renovasi fasad hemat, manajemen risiko proyek, dan transparansi RAB."
+    },
+    {
+        judul: "Estimasi Biaya Renovasi Rumah di Surabaya - Panduan Lengkap & Hitungan RAB",
+        kategori: "manajemen",
+        kategoriLabel: "Manajemen Biaya",
+        tanggal: "8 Sep 2026",
+        waktuBaca: "8 Menit",
+        url: "artikel/estimasi-biaya-renovasi-rumah-surabaya.html",
+        gambar: "assets/img/artikel/estimasi-biaya-renovasi-rumah.webp",
+        ringkasan: "Panduan lengkap estimasi biaya renovasi rumah di Surabaya: hitung kasar per m², komponen anggaran upah & material, simulasi perbaikan, dan tips RAB tanpa overbudget."
+    },
+    {
         judul: "Rekomendasi Kontraktor Rumah Tepercaya di Surabaya 2026",
         kategori: "bangun-rumah",
         kategoriLabel: "Bangun Rumah",

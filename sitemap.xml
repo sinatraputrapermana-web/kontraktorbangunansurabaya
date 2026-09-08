@@ -199,6 +199,42 @@
 
   <!-- Detail Artikel Teknis -->
   <url>
+    <loc>https://kontraktorbangunansurabaya.web.id/artikel/panduan-mengurus-izin-pbg-surabaya</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunansurabaya.web.id/assets/img/artikel/panduan-mengurus-izin-pbg-surabaya.webp</image:loc>
+      <image:title>Panduan Mengurus Izin PBG di Surabaya Terbaru untuk Rumah dan Ruko</image:title>
+      <image:caption>Panduan lengkap mengurus izin PBG di Surabaya, syarat dokumen teknis arsitektur dan struktur, alur SIMBG PUPR, dan validasi gambar kerja</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://kontraktorbangunansurabaya.web.id/artikel/panduan-lengkap-renovasi-rumah-ruko-surabaya</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunansurabaya.web.id/assets/img/artikel/panduan-lengkap-renovasi-rumah-ruko.webp</image:loc>
+      <image:title>Panduan Lengkap Renovasi Rumah &amp; Ruko di Surabaya - Struktur Aman &amp; RAB Transparan</image:title>
+      <image:caption>Panduan komprehensif renovasi rumah dan ruko di Surabaya, audit kekuatan struktur eksisting, renovasi fasad hemat, dan manajemen risiko proyek</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://kontraktorbangunansurabaya.web.id/artikel/estimasi-biaya-renovasi-rumah-surabaya</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunansurabaya.web.id/assets/img/artikel/estimasi-biaya-renovasi-rumah.webp</image:loc>
+      <image:title>Estimasi Biaya Renovasi Rumah di Surabaya - Panduan Lengkap &amp; Hitungan RAB</image:title>
+      <image:caption>Panduan komprehensif estimasi biaya renovasi rumah, simulasi hitung kasar per m2, dan tips transparansi RAB di Surabaya</image:caption>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://kontraktorbangunansurabaya.web.id/artikel/panduan-memilih-kontraktor-rumah-surabaya</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
