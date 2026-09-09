@@ -134,6 +134,36 @@ const dataFaqBeranda = [
 // 7. DATA ARTIKEL (Pengganti Database — render dinamis di artikel.html)
 const dataArtikel = [
     {
+        judul: "Meningkatkan Produktivitas Kerja Lewat Jasa Renovasi Gedung Kantor di Surabaya",
+        kategori: "bangun-rumah",
+        kategoriLabel: "Bangun Rumah",
+        tanggal: "9 Sep 2026",
+        waktuBaca: "8 Menit",
+        url: "artikel/renovasi-gedung-kantor-produktivitas-surabaya.html",
+        gambar: "assets/img/artikel/renovasi-gedung-kantor.webp",
+        ringkasan: "Jasa renovasi gedung kantor di Surabaya: redesain tata ruang kolaboratif, upgrade sistem MEP & kabel data Cat6, serta proses kerja bertahap tanpa ganggu operasional."
+    },
+    {
+        judul: "Estimasi Biaya Bangun Ruko 3 Lantai di Surabaya - Panduan Lengkap & RAB",
+        kategori: "manajemen",
+        kategoriLabel: "Manajemen Biaya",
+        tanggal: "9 Sep 2026",
+        waktuBaca: "8 Menit",
+        url: "artikel/estimasi-biaya-bangun-ruko-3-lantai-surabaya.html",
+        gambar: "assets/img/artikel/estimasi-biaya-bangun-ruko.webp",
+        ringkasan: "Panduan lengkap estimasi biaya bangun ruko 3 lantai di Surabaya: rincian biaya pondasi & struktur, perbandingan baja WF vs beton, simulasi biaya per m², dan tips RAB aman."
+    },
+    {
+        judul: "Panduan Lengkap Konstruksi Gedung & Ruko Komersial di Surabaya",
+        kategori: "bangun-rumah",
+        kategoriLabel: "Bangun Rumah",
+        tanggal: "9 Sep 2026",
+        waktuBaca: "12 Menit",
+        url: "artikel/panduan-konstruksi-gedung-ruko-komersial-jatim.html",
+        gambar: "assets/img/artikel/panduan-konstruksi-gedung-ruko.webp",
+        ringkasan: "Panduan komprehensif konstruksi gedung & ruko komersial di Surabaya: komparasi baja WF vs beton bertulang, soil test tanah Surabaya, izin PBG & SLF DPRKPP, dan manajemen proyek."
+    },
+    {
         judul: "Panduan Mengurus Izin PBG di Surabaya Terbaru untuk Rumah dan Ruko",
         kategori: "legalitas",
         kategoriLabel: "Legalitas & Izin",

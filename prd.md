@@ -145,4 +145,4 @@ Sebelum artikel dinyatakan selesai, pastikan seluruh checklist berikut terpenuhi
 - [ ] **Sitemap Terupdate:** Entri URL dan gambar artikel sudah ditambahkan ke [sitemap.xml](file:///e:/Magang/boostrap/kontaktor-bangunan/sitemap.xml).
 
 
-nih artikel ke 1 day 3kita. buatkan file nya sesuai nama judul, gambar berformat webp berwatermark dan terkompres max 90kb, lalu harus sudah tampil di blog nya
+nih artikel ke 1 day 3 kita. buatkan file nya sesuai nama judul, gambar berformat webp berwatermark dan terkompres max 50kb, lalu harus sudah tampil di blog nya
