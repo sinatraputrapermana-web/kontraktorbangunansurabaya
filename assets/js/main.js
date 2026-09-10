@@ -134,6 +134,36 @@ const dataFaqBeranda = [
 // 7. DATA ARTIKEL (Pengganti Database — render dinamis di artikel.html)
 const dataArtikel = [
     {
+        judul: "Strategi Menyusun RAB Konstruksi yang Akurat untuk Proyek Anda",
+        kategori: "manajemen",
+        kategoriLabel: "Manajemen Biaya",
+        tanggal: "10 Sep 2026",
+        waktuBaca: "8 Menit",
+        url: "artikel/strategi-menyusun-rab-konstruksi-akurat-surabaya.html",
+        gambar: "assets/img/artikel/strategi-menyusun-rab-konstruksi.webp",
+        ringkasan: "Strategi menyusun RAB konstruksi di Surabaya: cara menghindari kesalahan volume & harga usang, efisiensi anggaran tanpa kurangi mutu, dan pendampingan RAB transparan."
+    },
+    {
+        judul: "Cara Menghitung RAB Bangunan: Panduan Lengkap & Contoh Sederhana",
+        kategori: "manajemen",
+        kategoriLabel: "Manajemen Biaya",
+        tanggal: "10 Sep 2026",
+        waktuBaca: "8 Menit",
+        url: "artikel/cara-menghitung-rab-bangunan-surabaya.html",
+        gambar: "assets/img/artikel/cara-menghitung-rab-bangunan.webp",
+        ringkasan: "Panduan cara menghitung RAB bangunan di Surabaya: rumus volume pekerjaan x AHSP, simulasi pasangan dinding & pondasi, serta syarat RAB untuk pembiayaan bank."
+    },
+    {
+        judul: "Panduan Lengkap Desain Arsitektur & RAB Bangunan di Surabaya",
+        kategori: "bangun-rumah",
+        kategoriLabel: "Bangun Rumah",
+        tanggal: "10 Sep 2026",
+        waktuBaca: "8 Menit",
+        url: "artikel/panduan-desain-arsitektur-rab-bangunan-surabaya.html",
+        gambar: "assets/img/artikel/panduan-desain-arsitektur-rab.webp",
+        ringkasan: "Panduan komprehensif desain arsitektur & RAB bangunan di Surabaya: alur kerja konsep hingga DED gambar kerja, peran DED dalam akurasi RAB, dan layanan desain terpadu."
+    },
+    {
         judul: "Meningkatkan Produktivitas Kerja Lewat Jasa Renovasi Gedung Kantor di Surabaya",
         kategori: "bangun-rumah",
         kategoriLabel: "Bangun Rumah",
