@@ -134,6 +134,36 @@ const dataFaqBeranda = [
 // 7. DATA ARTIKEL (Pengganti Database — render dinamis di artikel.html)
 const dataArtikel = [
     {
+        judul: "Desain Arsitektur Rumah Minimalis Modern yang Fungsional di Surabaya",
+        kategori: "bangun-rumah",
+        kategoriLabel: "Bangun Rumah",
+        tanggal: "11 Sep 2026",
+        waktuBaca: "8 Menit",
+        url: "artikel/desain-arsitektur-rumah-minimalis-modern-surabaya.html",
+        gambar: "assets/img/artikel/desain-arsitektur-rumah-minimalis.webp",
+        ringkasan: "Panduan desain arsitektur rumah minimalis modern fungsional di Surabaya: tata letak efisien, fasad garis bersih, secondary skin, dan integrasi desain hingga finishing."
+    },
+    {
+        judul: "Harga Jasa Interior & Finishing Rumah per Meter Persegi di Surabaya",
+        kategori: "manajemen",
+        kategoriLabel: "Manajemen Biaya",
+        tanggal: "11 Sep 2026",
+        waktuBaca: "8 Menit",
+        url: "artikel/harga-jasa-interior-finishing-rumah-per-meter-surabaya.html",
+        gambar: "assets/img/artikel/harga-jasa-interior-finishing.webp",
+        ringkasan: "Panduan harga jasa interior & finishing rumah per meter persegi di Surabaya: komponen tarif wardrobe, kitchen set, partisi ruangan, dan konsultasi anggaran transparan."
+    },
+    {
+        judul: "Panduan Lengkap Interior & Finishing Rumah Modern di Surabaya",
+        kategori: "bangun-rumah",
+        kategoriLabel: "Bangun Rumah",
+        tanggal: "11 Sep 2026",
+        waktuBaca: "8 Menit",
+        url: "artikel/panduan-interior-finishing-rumah-modern-surabaya.html",
+        gambar: "assets/img/artikel/panduan-interior-finishing-rumah.webp",
+        ringkasan: "Panduan lengkap interior & finishing rumah modern di Surabaya: konsep gaya sejak desain, keunggulan panel WPC, finishing duco, dan furnitur custom terpadu."
+    },
+    {
         judul: "Strategi Menyusun RAB Konstruksi yang Akurat untuk Proyek Anda",
         kategori: "manajemen",
         kategoriLabel: "Manajemen Biaya",

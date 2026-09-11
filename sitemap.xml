@@ -188,7 +188,7 @@
   <!-- Halaman Artikel & Edukasi -->
   <url>
     <loc>https://kontraktorbangunansurabaya.web.id/artikel</loc>
-    <lastmod>2026-08-27</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
@@ -198,6 +198,57 @@
   </url>
 
   <!-- Detail Artikel Teknis -->
+  <url>
+    <loc>https://kontraktorbangunansurabaya.web.id/artikel/desain-arsitektur-rumah-minimalis-modern-surabaya</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunansurabaya.web.id/assets/img/artikel/desain-arsitektur-rumah-minimalis.webp</image:loc>
+      <image:title>Desain Arsitektur Rumah Minimalis Modern yang Fungsional di Surabaya</image:title>
+      <image:caption>Panduan desain arsitektur rumah minimalis modern di Surabaya, tata letak efisien, fasad garis bersih, dan integrasi desain hingga finishing</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunansurabaya.web.id/assets/img/artikel/fasad-rumah-minimalis-modern-surabaya.webp</image:loc>
+      <image:title>Desain Fasad Rumah Minimalis Modern dengan Garis Bersih dan Secondary Skin di Surabaya</image:title>
+      <image:caption>Penerapan kisi-kisi secondary skin dan kanopi kantilever pada fasad rumah minimalis modern di Surabaya untuk kenyamanan iklim tropis</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://kontraktorbangunansurabaya.web.id/artikel/harga-jasa-interior-finishing-rumah-per-meter-surabaya</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunansurabaya.web.id/assets/img/artikel/harga-jasa-interior-finishing.webp</image:loc>
+      <image:title>Harga Jasa Interior &amp; Finishing Rumah per Meter Persegi di Surabaya</image:title>
+      <image:caption>Panduan harga jasa interior dan finishing rumah per meter persegi di Surabaya, komponen tarif wardrobe, kitchen set, dan partisi ruangan</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunansurabaya.web.id/assets/img/artikel/biaya-partisi-ruangan-interior.webp</image:loc>
+      <image:title>Analisis Tarif Partisi Ruangan Kaca Aluminium dan Gypsum Drop Ceiling di Surabaya</image:title>
+      <image:caption>Pemasangan partisi kaca aluminium modern dan drop ceiling dengan pencahayaan tersembunyi pada hunian modern di Surabaya</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://kontraktorbangunansurabaya.web.id/artikel/panduan-interior-finishing-rumah-modern-surabaya</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunansurabaya.web.id/assets/img/artikel/panduan-interior-finishing-rumah.webp</image:loc>
+      <image:title>Panduan Lengkap Interior &amp; Finishing Rumah Modern di Surabaya</image:title>
+      <image:caption>Panduan lengkap interior dan finishing rumah modern di Surabaya, material panel WPC, finishing duco, dan furnitur custom terpadu</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunansurabaya.web.id/assets/img/artikel/material-interior-finishing-modern.webp</image:loc>
+      <image:title>Perencanaan Furnitur Custom Kitchen Set dan Wardrobe Finishing Duco di Surabaya</image:title>
+      <image:caption>Pengerjaan furnitur custom kitchen set dan wardrobe dengan finishing duco berkualitas tinggi serta integrasi titik instalasi tersembunyi</image:caption>
+    </image:image>
+  </url>
+
   <url>
     <loc>https://kontraktorbangunansurabaya.web.id/artikel/strategi-menyusun-rab-konstruksi-akurat-surabaya</loc>
     <lastmod>2026-09-10</lastmod>
