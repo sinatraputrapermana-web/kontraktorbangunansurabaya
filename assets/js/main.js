@@ -134,6 +134,36 @@ const dataFaqBeranda = [
 // 7. DATA ARTIKEL (Pengganti Database — render dinamis di artikel.html)
 const dataArtikel = [
     {
+        judul: "Cakupan Layanan Maintenance Rutin Bangunan Gedung di Surabaya",
+        kategori: "bangun-rumah",
+        kategoriLabel: "Bangun Rumah",
+        tanggal: "12 Sep 2026",
+        waktuBaca: "8 Menit",
+        url: "artikel/cakupan-layanan-maintenance-rutin-bangunan-gedung-surabaya.html",
+        gambar: "assets/img/artikel/cakupan-layanan-maintenance-rutin-bangunan-gedung.webp",
+        ringkasan: "Panduan lengkap cakupan layanan maintenance rutin bangunan gedung di Surabaya: perjanjian kerja MEP, perawatan elemen sipil fasad, kontrak tahunan, dan SLA respons cepat."
+    },
+    {
+        judul: "Mengapa Waterproofing Atap Penting Sebelum Musim Hujan?",
+        kategori: "bangun-rumah",
+        kategoriLabel: "Bangun Rumah",
+        tanggal: "12 Sep 2026",
+        waktuBaca: "8 Menit",
+        url: "artikel/mengapa-waterproofing-atap-penting-sebelum-musim-hujan-surabaya.html",
+        gambar: "assets/img/artikel/mengapa-waterproofing-atap-penting-sebelum-musim-hujan.webp",
+        ringkasan: "Pelajari pentingnya waterproofing atap sebelum musim hujan di Surabaya: tanda kerusakan dak beton, perbandingan aspal cair elastis vs membran bakar, dan garansi bebas bocor."
+    },
+    {
+        judul: "Panduan Lengkap Maintenance & Perawatan Bangunan di Surabaya",
+        kategori: "bangun-rumah",
+        kategoriLabel: "Bangun Rumah",
+        tanggal: "12 Sep 2026",
+        waktuBaca: "8 Menit",
+        url: "artikel/panduan-lengkap-maintenance-perawatan-bangunan-surabaya.html",
+        gambar: "assets/img/artikel/panduan-lengkap-maintenance-perawatan-bangunan.webp",
+        ringkasan: "Panduan lengkap jadwal dan ruang lingkup maintenance bangunan di Surabaya: checklist harian, mingguan, perawatan berkala struktur & MEP, dan efisiensi biaya pemeliharaan."
+    },
+    {
         judul: "Desain Arsitektur Rumah Minimalis Modern yang Fungsional di Surabaya",
         kategori: "bangun-rumah",
         kategoriLabel: "Bangun Rumah",

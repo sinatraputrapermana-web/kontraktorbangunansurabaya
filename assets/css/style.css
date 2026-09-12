@@ -2050,3 +2050,31 @@ img,
         display: none;
     }
 }
+
+/* =========================================================
+   ARTICLE TYPOGRAPHY ENHANCEMENT
+   Natural casing & elegant line height for article readers
+   ========================================================= */
+.article-body h1,
+.article-body h2,
+.article-body h3,
+.article-body h4,
+.article-body h5,
+.article-body h6,
+.toc-box .toc-title,
+.toc-list,
+.accordion-button {
+    text-transform: none !important;
+    letter-spacing: normal !important;
+    line-height: 1.4 !important;
+}
+
+.article-body h2 {
+    font-size: 1.35rem;
+    font-weight: 700;
+}
+
+.article-body h3 {
+    font-size: 1.15rem;
+    font-weight: 700;
+}

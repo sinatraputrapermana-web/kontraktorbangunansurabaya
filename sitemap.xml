@@ -188,7 +188,7 @@
   <!-- Halaman Artikel & Edukasi -->
   <url>
     <loc>https://kontraktorbangunansurabaya.web.id/artikel</loc>
-    <lastmod>2026-09-11</lastmod>
+    <lastmod>2026-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <image:image>
@@ -198,6 +198,57 @@
   </url>
 
   <!-- Detail Artikel Teknis -->
+  <url>
+    <loc>https://kontraktorbangunansurabaya.web.id/artikel/cakupan-layanan-maintenance-rutin-bangunan-gedung-surabaya</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunansurabaya.web.id/assets/img/artikel/cakupan-layanan-maintenance-rutin-bangunan-gedung.webp</image:loc>
+      <image:title>Cakupan Layanan Maintenance Rutin Bangunan Gedung di Surabaya</image:title>
+      <image:caption>Inspeksi rutin fasilitas operasional, sistem MEP, dan jalur sirkulasi gedung komersial di Surabaya</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunansurabaya.web.id/assets/img/artikel/perawatan-fasad-kaca-dan-elemen-sipil-gedung.webp</image:loc>
+      <image:title>Pembersihan Fasad Kaca dan Pemeliharaan Elemen Sipil Gedung di Surabaya</image:title>
+      <image:caption>Pembersihan berkala kaca fasad curtain wall, pengecatan dinding luar, dan inspeksi elemen sipil gedung di Surabaya</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://kontraktorbangunansurabaya.web.id/artikel/mengapa-waterproofing-atap-penting-sebelum-musim-hujan-surabaya</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunansurabaya.web.id/assets/img/artikel/mengapa-waterproofing-atap-penting-sebelum-musim-hujan.webp</image:loc>
+      <image:title>Mengapa Waterproofing Atap Penting Sebelum Musim Hujan?</image:title>
+      <image:caption>Pelapisan waterproofing aspal cair elastis pada dak beton atap gedung komersial di Surabaya sebelum memasuki musim hujan</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunansurabaya.web.id/assets/img/artikel/aplikasi-waterproofing-dak-atap-gedung.webp</image:loc>
+      <image:title>Aplikasi Waterproofing Membran Bakar dan Aspal Cair Elastis di Surabaya</image:title>
+      <image:caption>Pemasangan membran bakar bitumen torch-on pada sambungan talang dak beton atap gedung komersial di Surabaya</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://kontraktorbangunansurabaya.web.id/artikel/panduan-lengkap-maintenance-perawatan-bangunan-surabaya</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://kontraktorbangunansurabaya.web.id/assets/img/artikel/panduan-lengkap-maintenance-perawatan-bangunan.webp</image:loc>
+      <image:title>Panduan Lengkap Maintenance &amp; Perawatan Bangunan di Surabaya</image:title>
+      <image:caption>Panduan lengkap jadwal dan ruang lingkup maintenance bangunan di Surabaya, checklist harian, mingguan, perawatan berkala struktur dan MEP</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://kontraktorbangunansurabaya.web.id/assets/img/artikel/perawatan-berkala-elemen-struktural-mep-gedung.webp</image:loc>
+      <image:title>Perawatan Berkala Elemen Struktural dan Sistem MEP Gedung di Surabaya</image:title>
+      <image:caption>Pengecekan berkala panel kelistrikan MEP, sistem perpipaan hidran, dan peralatan HVAC gedung komersial di Surabaya</image:caption>
+    </image:image>
+  </url>
+
   <url>
     <loc>https://kontraktorbangunansurabaya.web.id/artikel/desain-arsitektur-rumah-minimalis-modern-surabaya</loc>
     <lastmod>2026-09-11</lastmod>
